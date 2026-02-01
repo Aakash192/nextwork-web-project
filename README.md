@@ -6,7 +6,6 @@ Welcome to this project combining Java web app development and AWS CI/CD tools!
 
 ## Table of Contents
 - [Introduction](#introduction)
-The aim of the project was to learn how to set up a CI/CD pipeline
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [Contact](#contact)
