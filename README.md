@@ -54,7 +54,7 @@ To get this project up and running on your local machine, follow these steps:
 
 ## Contact
 If you have any questions or comments about the NextWork Web Project, please contact:
-Aakash Suryavanshu - aakash.suryavanshi2001@gmail.com
+Aakash Suryavanshi - aakash.suryavanshi2001@gmail.com
 
 <br>
 
